@@ -30,7 +30,7 @@ Always verify important information with official Microsoft documentation.
 https://drive.google.com/file/d/14HHM8kBXeqE8ckmHavlaAZfz-axrOJWg/view?usp=drivesdk
 
 ## Pitch Deck
-[Link to pitch deck]
+https://canva.link/u724w32se7pwgap
 
 ## Built by
 Natasha Adhiambo Oduor – Power Learn Project Africa
