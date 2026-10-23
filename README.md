@@ -27,7 +27,7 @@ This project is not affiliated with, endorsed by, or connected to Microsoft.
 Always verify important information with official Microsoft documentation.
 
 ## Demo Video
-https://screenrec.com/share/sT4ZFjBQHr
+https://drive.google.com/file/d/1iv2Qe23DRX7rbczXe-ghVY5PHLzSzJqL/view?usp=drivesdk
 
 ## Pitch Deck
 https://canva.link/u724w32se7pwgap
